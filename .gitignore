@@ -1,0 +1,11 @@
+# build outputs
+.lake/
+__pycache__/
+*.pyc
+.DS_Store
+
+# private working files
+urs/
+premise/
+docs/agent-conventions.md
+.claude/
