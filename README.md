@@ -26,4 +26,4 @@ python3 tools/check.py --all
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0): see `LICENSE`.
+MIT: see `LICENSE`.
